@@ -1,4 +1,4 @@
-// -$t@$h     QVLx Labs
+//     QVLx Labs
 
 use std::env;
 use passwords::{analyzer, scorer};
