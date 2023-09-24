@@ -32,8 +32,4 @@ fn main() {
   let unshielded = shielded_str.unshield();
   print!("{}", String::from_utf8_lossy(unshielded.as_ref()));
 
-  /*
-      TODO: Check generated directory hashes against read in hashes in file and list whether
-            the event is Verified or Untrusted. Verified is cyan. Untrusted is red.
-  */
 }
