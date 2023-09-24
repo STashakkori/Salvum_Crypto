@@ -1,0 +1,12 @@
+[package]
+name = "speck_crypt"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+speck-rs = "0.1.1"
+rand = "0.8.4"
+substring = "1.4.5"
+rand_core = "0.6.3" 

@@ -1,0 +1,10 @@
+[package]
+name = "lbdr_ecc"
+version = "1.0.0"
+edition = "2018"
+
+[dependencies]
+labrador-ldpc = "1.0.1"
+dialoguer = "0.8.0"
+console = "0.14.1"
+colored = "2.0.0"
